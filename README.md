@@ -40,7 +40,7 @@ python Astarproje.py
 
 ## Demo
 
-![A* Ant Simulation Demo](example.gif)
+![A* Ant Simulation Demo](examplee.gif)
 
 ## How it Works
 
