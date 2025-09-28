@@ -26,7 +26,7 @@ A Tkinter-based grid simulation where an ant searches for food using the A* path
 Run the main Python file :
 
 ```bash
-python     Astarproje.py
+python Astarproje.py
 ```
 
 ### Controls
